@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.startup
+package com.github.yanghuanyang117hash.testideaplugin.startup
 
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
